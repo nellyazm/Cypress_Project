@@ -3,4 +3,3 @@ cypress/videos
 cypress/screenshots
 js/*.js
 2-advanced-examples
-cypress/e2e/magento
